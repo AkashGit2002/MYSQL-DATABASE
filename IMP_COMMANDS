@@ -1,0 +1,4 @@
+ALTER TABLE std_details
+  ADD dob date;
+ 
+ DESC std_details;
